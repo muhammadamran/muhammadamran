@@ -7,7 +7,7 @@ Hi everyone, I'm Muhammad Amran, Web Application Programming and analysis develo
 		<img alt="TWITTER" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/muhammadamran/" target="_blank">
-		<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>&nbsp;&nbsp;
 	<a href="mailto:amranhakim9@gmail.com">
 		<img alt="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
