@@ -27,7 +27,7 @@ Hi everyone, I'm Muhammad Amran, Web Application Programming and analysis develo
 
 <img align ="right" src="https://jaxenter.com/wp-content/uploads/2019/09/shutterstock_753972046-350x233.jpg" width="150" height="150">
 
-<img src="https://github-readme-stats.vercel.app/api?username=basoro">
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadamran">
 
 ## Languages & Frameworks:
 
