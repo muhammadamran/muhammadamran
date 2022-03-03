@@ -1,8 +1,8 @@
-<h1 align='left'>Hello World! 👋</h1>
+<h1 align='left'>Hello World! 💻</h1>
 
 Hi everyone, I'm Muhammad Amran. Contact me if you want to discuss about apps in my repository.
 Enjoyyy...
-Love coding love a life.
+Love coding love a life
 
 <p align='center'>
 	<a href="https://www.linkedin.com/in/muhammadamran/" target="_blank">
