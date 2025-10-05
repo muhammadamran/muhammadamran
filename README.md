@@ -4,6 +4,12 @@ Hi everyone, I'm Muhammad Amran. Contact me if you want to discuss about apps in
 Enjoyyy...
 Love coding love a life
 
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
 <p align='center'>
 	<a href="https://www.linkedin.com/in/muhammadamran/" target="_blank">
 		<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -22,7 +28,11 @@ Love coding love a life
 	</a>&nbsp;&nbsp;
 </p>
 
-## Stats:
+##
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -45,6 +55,10 @@ Love coding love a life
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
