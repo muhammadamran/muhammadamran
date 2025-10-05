@@ -25,5 +25,11 @@ Love coding love a life
 ## Stats:
 
 <!-- <img align ="right" src="https://jaxenter.com/wp-content/uploads/2019/09/shutterstock_753972046-350x233.jpg" width="150" height="150"> -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadamran" width="100%">
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=muhammadamran" width="100%"> -->
